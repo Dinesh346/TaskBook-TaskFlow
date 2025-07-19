@@ -3,7 +3,7 @@ TaskFlow - Modern Task Management App
 Overview
 TaskFlow is a sleek, responsive task management application that helps users organize their tasks with priority levels, filtering options, and a clean user interface. It features light/dark mode toggle, drag-and-drop sorting, and local storage persistence.
 
-https://Screenshot%25202025-07-19%2520113850.png
+
 
 Features
 Core Functionality
